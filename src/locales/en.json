@@ -1,0 +1,10 @@
+{
+  "app": { "name": "KisanSetu", "tagline": "Farmer's Digital Market" },
+  "nav": { "prices": "Market Prices", "lots": "My Lots", "dashboard": "Dashboard", "browse": "Browse Lots", "bids": "My Bids", "logistics": "Logistics", "transactions": "Transactions", "disputes": "Disputes", "admin": "Admin Panel", "logout": "Logout" },
+  "lot": { "create": "Create Lot", "grade": { "faq": "FAQ (Fair Average Quality)", "grade_a": "Grade A", "grade_b": "Grade B", "reject": "Reject" }, "status": { "active": "Active", "matched": "Matched", "in_transit": "In Transit", "settled": "Settled", "closed": "Closed" } },
+  "bid": { "place": "Place Bid", "accept": "Accept", "reject": "Reject", "counter": "Counter" },
+  "price": { "current": "Current Price", "history": "Price History", "trend": "Trend", "modal": "Modal Price", "arrival": "Arrivals" },
+  "window": { "favourable": "Favourable Window", "average": "Average Window", "below_average": "Below Average" },
+  "common": { "farmer": "Farmer", "buyer": "Buyer", "admin": "Admin", "verified": "Verified", "save": "Save", "cancel": "Cancel", "loading": "Loading...", "error": "Something went wrong", "submit": "Submit", "close": "Close", "view": "View", "book": "Book", "rupee": "₹" },
+  "dispute": { "short_weight": "Short Weight", "quality_mismatch": "Quality Mismatch", "payment_delay": "Payment Delay", "logistics_damage": "Logistics Damage", "other": "Other" }
+}

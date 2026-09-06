@@ -1,0 +1,10 @@
+{
+  "app": { "name": "कृषिसेतू", "tagline": "शेतकऱ्याचा डिजिटल बाजार" },
+  "nav": { "prices": "बाजारभाव", "lots": "माझे लॉट", "dashboard": "डॅशबोर्ड", "browse": "लॉट पहा", "bids": "माझ्या बोली", "logistics": "लॉजिस्टिक्स", "transactions": "व्यवहार", "disputes": "तक्रारी", "admin": "प्रशासन पॅनल", "logout": "बाहेर पडा" },
+  "lot": { "create": "लॉट तयार करा", "grade": { "faq": "FAQ (उचित सरासरी गुणवत्ता)", "grade_a": "ग्रेड A", "grade_b": "ग्रेड B", "reject": "नाकारलेले" }, "status": { "active": "सक्रिय", "matched": "जुळले", "in_transit": "वाहतुकीत", "settled": "निकाल झाला", "closed": "बंद" } },
+  "bid": { "place": "बोली लावा", "accept": "स्वीकारा", "reject": "नाकारा", "counter": "प्रतिबोली" },
+  "price": { "current": "सध्याचा भाव", "history": "भावाचा इतिहास", "trend": "कल", "modal": "मॉडल भाव", "arrival": "आवक" },
+  "window": { "favourable": "अनुकूल वेळ", "average": "सामान्य वेळ", "below_average": "प्रतिकूल वेळ" },
+  "common": { "farmer": "शेतकरी", "buyer": "खरेदीदार", "admin": "प्रशासक", "verified": "सत्यापित", "save": "जतन करा", "cancel": "रद्द करा", "loading": "लोड होत आहे...", "error": "काहीतरी चुकले", "submit": "सादर करा", "close": "बंद करा", "view": "पहा", "book": "बुक करा", "rupee": "₹" },
+  "dispute": { "short_weight": "कमी वजन", "quality_mismatch": "गुणवत्ता जुळत नाही", "payment_delay": "देयकात विलंब", "logistics_damage": "वाहतुकीत नुकसान", "other": "इतर" }
+}
